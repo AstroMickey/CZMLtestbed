@@ -1,6 +1,24 @@
 [
     {
-        "id": "SCADR",
+    "id":"document",
+    "name":"simple",
+    "version":"1.0",
+    "clock":{
+      "interval":"2012-03-15T10:00:00Z/2012-03-16T10:00:00Z",
+      "currentTime":"2012-03-15T10:00:00Z",
+      "multiplier":60,
+      "range":"LOOP_STOP",
+      "step":"SYSTEM_CLOCK_MULTIPLIER"
+    }
+    },
+      {
+    "id":"ms-test-0001",
+    "name":"Accesses",
+    "description":"List of Accesses"
+    },
+    {
+        "id": "Satellite/SCADR1",
+        "name":"SCADR1"
         "position":{
             "interpolationAlgorithm":"LAGRANGE",
             "interpolationDegree":5,
