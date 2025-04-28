@@ -686,25 +686,7 @@
             "text":"SCADR 1",
             "verticalOrigin":"CENTER"
         },
-        "path":{
-            "show":[
-                {
-                "interval":"2012-03-15T10:00:00Z/2012-03-16T10:00:00Z",
-                "boolean":true
-                }
-            ],
-            "width":1,
-            "material":{
-                "solidColor":{
-                "color":{
-                    "rgba":[
-                    255,0,0,255
-                    ]
-                }
-            }
-        },
-        "resolution":120,
-        
+
         "position":{
             "interpolationAlgorithm":"LAGRANGE",
             "interpolationDegree":5,
@@ -1017,6 +999,6 @@
         "point": {
                 "color": { "rgba": [255, 0, 0, 255] }
         }
-        }
+        
     }
 ]
