@@ -12,32 +12,27 @@
         }
     },
     {
-        "id":"ms-test-0001",
-        "name":"Accesses",
-        "description":"List of Accesses"
-    },
-    "path":{
-        "show":[
-            {
-            "interval":"2012-03-15T10:00:00Z/2012-03-16T10:00:00Z",
-            "boolean":true
-            }
-        ],
-        "width":1,
-        "material":{
-            "solidColor":{
-            "color":{
-                "rgba":[
-                0,0,255,255
-                ]
-            }
-            }
-        },
-        "resolution":120
-    },
-    {
         "id": "Satellite/SCADR1",
         "name":"SCADR1",
+        "path":{
+            "show":[
+                {
+                "interval":"2012-03-15T10:00:00Z/2012-03-16T10:00:00Z",
+                "boolean":true
+                }
+            ],
+            "width":1,
+            "material":{
+                "solidColor":{
+                "color":{
+                    "rgba":[
+                    0,0,255,255
+                    ]
+                }
+                }
+            },
+            "resolution":120
+        },
         "position":{
             "interpolationAlgorithm":"LAGRANGE",
             "interpolationDegree":5,
