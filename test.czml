@@ -18,7 +18,7 @@
     },
     {
         "id": "Satellite/SCADR1",
-        "name":"SCADR1"
+        "name":"SCADR1",
         "position":{
             "interpolationAlgorithm":"LAGRANGE",
             "interpolationDegree":5,
