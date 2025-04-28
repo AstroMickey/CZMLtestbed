@@ -707,12 +707,12 @@
     },
     "leadTime":[
         {
-          "number": 240
+          "number": 240.0
         }
     ],
     "trailTime":[
         {
-          "number": 1800
+          "number": 1800.0
         }
         ],
     "position":{
