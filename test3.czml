@@ -705,16 +705,8 @@
       },
       "resolution":120
     },
-    "leadTime":[
-        {
-          "number": 240.0
-        }
-    ],
-    "trailTime":[
-        {
-          "number": 1800.0
-        }
-        ],
+    "leadTime":240.0,
+    "trailTime":1800.0,
     "position":{
       "interpolationAlgorithm":"LAGRANGE",
       "interpolationDegree":5,
