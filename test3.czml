@@ -687,7 +687,7 @@
             "verticalOrigin":"CENTER"
         },
         "path":{
-            "leadTime":240.0,
+            "leadTime":0.0,
             "trailTime":1800.0,
             "show":[
                     {
